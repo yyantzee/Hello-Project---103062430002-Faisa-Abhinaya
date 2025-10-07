@@ -464,3 +464,5 @@ func HitungTotalJam(tanggalMasuk, waktuMasuk, tanggalKeluar, waktuKeluar string)
 	}
 	return jam
 }
+
+// Second Commit
